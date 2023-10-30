@@ -5,4 +5,4 @@ A File Integrity Monitoring (FIM) system, simply put, is a system that monitors 
 **Goal:** The purpose of this project will be to improve upon a FIM Powershell script. The script is capable of collecting new baselines, monitoring files with saved baseline, continuously monitoring files, and notifying users if a file is changed or deleted. 
 
 
-*All thanks and credit goes to Josh Madakor*
+*All thanks and credit for this lab goes to Josh Madakor*
